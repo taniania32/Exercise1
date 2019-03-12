@@ -1,0 +1,54 @@
+.padding{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    width: 20px;
+}
+
+.padding1{
+    padding-left: 100px;
+}
+.padding2{
+    padding-left: 40px;
+}
+.padding3{
+    padding-top: 10px;
+}
+
+.padding4{
+    padding-left: 50px;
+}
+
+.padding5{
+    padding-right: 50px;
+}
+
+.padding6{
+    padding-bottom: 50px;
+}
+
+.paddingLeft{
+    font-style: normal;
+    position: relative;
+    margin: 10px;
+}
+.sizetextbox{
+    width: 290px;
+    height: 100px;
+}
+
+.color1{
+    background-color: rgb(56, 199, 199);
+}
+
+.colorText{
+    color: white;
+    border: 5px solid rgb(56, 199, 199);
+    
+}
+
+.border1{
+    border: 5px solid white;
+    
+}
